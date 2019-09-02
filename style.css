@@ -1,0 +1,40 @@
+
+#section{
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family:sans-serif;
+  padding: 10%;
+}
+p{
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family:sans-serif;
+  padding: 5%;
+}
+#About{
+  background-color: #EE6C4D;
+  display:inline-block;
+}
+#poems{
+  background-color: #F98948;
+  display:inline-block;
+}
+#purchase{
+  background-color:  #F38D68;
+}
+
+
+h1{
+  text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#profile{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+
+  border-radius: 50%;
+  border-color: rgb(0,0,0,0.5);
+  border-style: solid;
+}
