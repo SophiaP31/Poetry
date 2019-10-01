@@ -4,20 +4,24 @@
   margin-right: 20%;
   font-family:sans-serif;
   padding: 10%;
+
 }
 p{
   margin-left: 20%;
   margin-right: 20%;
   font-family:sans-serif;
   padding: 5%;
+  font-family: 'Be Vietnam', sans-serif;
+  
 }
 #About{
   background-color: #EE6C4D;
-  display:inline-block;
+  
 }
 #poems{
   background-color: #F98948;
-  display:inline-block;
+  padding-left: 20%;
+
 }
 #purchase{
   background-color:  #F38D68;
@@ -25,8 +29,9 @@ p{
 
 
 h1{
+  padding-top: 5%;
   text-align: center;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  font-family: 'Homemade Apple', cursive;
 }
 #profile{
   display: block;
